@@ -26,3 +26,14 @@ numero_b = 10
 resultado = numero_a + numero_b 
 # Mostramos el valor del resultado en la consola
 print(resultado)
+
+# ITEM 4: Explorar un módulo integrado
+
+# Importamos el módulo math para acceder a funciones matemáticas avanzadas
+import math 
+
+# Usamos la función sqrt() del módulo math para calcular la raíz cuadrada de 25
+raiz_cuadrada = math.sqrt(25) 
+
+# Mostramos el resultado (el sistema devolverá 5.0 porque sqrt siempre retorna decimales)
+print(raiz_cuadrada)
