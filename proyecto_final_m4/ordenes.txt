@@ -1,0 +1,6 @@
+
+--- ORDEN DE COMPRA: 2026-04-11 03:16 ---
+Producto: Camiseta Algodón | Cantidad: 2 | Subtotal: $30000
+Producto: Audífonos Bluetooth | Cantidad: 5 | Subtotal: $225000
+TOTAL DE LA VENTA: $255000
+========================================

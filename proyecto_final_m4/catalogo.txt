@@ -1,0 +1,7 @@
+1,Teclado Mecánico,Tecnología,35000
+2,Silla Gamer,Hogar,120000
+3,Camiseta Algodón,Ropa,15000
+5,Audífonos Bluetooth,Tecnología,45000
+6,Mouse Inalámbrico,Tecnología,12000
+7,Lámpara Escritorio,Hogar,22000
+8,Taza Cerámica,Hogar,5000
